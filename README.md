@@ -8,7 +8,6 @@
     
 * Git clone, remote remove:
     ```
-    #GIT CLONE, REMOTE REMOVE
     git clone git@github.com:[ User ]/[ Repository ]
     git remote rm [ remote ]
     ```
