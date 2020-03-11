@@ -12,10 +12,11 @@
     git remote rm [ remote ]
     ```
     
-* Npm install, eslint commands:
+* Npm install, npx init, eslint commands:
     ```
     npm install [ ... ] --save-dev
-    npx eslint [ --init / file.js ]
+    npx [ ... ] --init
+    npx eslint file.js
     ```
 
 * Git commit:
