@@ -14,8 +14,9 @@
     
 * Npm install, npx init, eslint commands:
     ```
-    npm install [ ... ] --save-dev
-    npx [ ... ] --init
+    npm install [ eslint, eslint-config-airbnb-base ] --save-dev
+    npx eslint --init
+        .eslintrc.js: extends: 'airbnb-base'
     npx eslint file.js
     ```
 
